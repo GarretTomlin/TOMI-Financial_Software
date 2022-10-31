@@ -1,0 +1,38 @@
+version: '1.0'
+
+services:
+  # React App
+  app-1:
+    extends:
+      file: docker-compose.base.yml
+      service: nx-app-base
+    command: npm run frontend:dev:docker
+    ports:
+      - 4200:4200
+
+  # Express App
+  api:
+    extends:
+      file: docker-compose.base.yml
+      service: nx-app-base
+    command: npm run backend:dev:docker
+    ports:
+      - 3333:3333 # API Entry port
+
+  postgres:
+        image: postgres:10.5
+        restart: always
+        environment:
+          - POSTGRES_USER=postgres
+          - POSTGRES_PASSWORD=postgres
+        logging:
+          options:
+            max-size: 10m
+            max-file: "3"
+        ports:
+          - '5438:5432'
+        volumes:
+          - ./postgres-data:/var/lib/postgresql/data
+volumes:
+  mono-node-modules: null
+
