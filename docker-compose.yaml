@@ -1,49 +1,23 @@
 version: "3.8"
 
-networks:
-  corp:
-    driver: bridge
-
 services:
   api:
     container_name: api
     build:
-      context: ./
-      cache_from:
-        - my-base-image:nx-base
-      dockerfile: ./apps/api/Dockerfile
-      args:
-        NODE_ENV: "development"
-        BUILD_FLAG: ""
-    image: api:nx-dev
-    ports:
-      - 3333:3333
-    environment:
-      NODE_ENV: "development"
-      PORT: 3333
+        context: .
+        target: api
     networks:
-      - corp
-    restart: on-failure
-
+        martzcodes:
   frontend:
-    container_name: react-client
+    container_name: frontend
     build:
-      context: ./
-      cache_from:
-        - nginx:1.19.2
-      dockerfile: ./apps/frontend/Dockerfile
-      args:
-        NODE_ENV: "development"
-        BUILD_FLAG: ""
-    image: frontend:nx-dev
+        context: .
+        target: frontend
     ports:
-      - 4001:80
-    environment:
-      NODE_ENV: "development"
-      PORT: 4001
+      - 80:80
+      - 3333:3333
     networks:
-      - corp
-    restart: on-failure
+        martzcodes:
   postgres:
     image: postgres:latest
     container_name: postgres
