@@ -1,5 +1,5 @@
 <a href=""><p align="center">
-<img height=200 width=200 src="https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/docs/logo.png"/>
+<img height=300 width=300 src="https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/docs/logo.png"/>
 
 </p></a>
 <p align="center">
