@@ -26,7 +26,6 @@ Clone the project from github
 
 -   postgres container running
 -   `.env` updated with the environment variables needed by TOMI.
--   ```docker compose up```
 
 ### Installation
 
@@ -44,7 +43,6 @@ nx serve api
 ```
 
 ## Technical Stuffs
-| Tech Design                                         | Style Guide                                                                                          | ERD Diagrams   
-| :---:                                                 |     :---:                                                                                            |    :---:   | 
-                                                                                                                                                                             
+| Tech Design                                         | Style Guide                                                                                          | ERD Diagrams   | 
+| :---:                                                 |     :---:                                                                                            |    :---:   |
 | [Tech Design](https://docs.google.com/document/d/1E_qgjhhpzNrEbQMEISoT0qrTQT2D5_ncMBQpo2F8dPs/edit?usp=sharing)                                     | [Style Guide](https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/STYLE_GUIDE.md)    | [TOMI ERD](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G10kC-nlMRxPI7KZhsDxwkEXpSfCWZ9Vm4)  |
