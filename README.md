@@ -1,5 +1,5 @@
-<a href="https://dogehouse.tv"><p align="center">
-<img height=100 src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg"/>
+<a href=""><p align="center">
+<img height=100 src="https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/docs/logo.png"/>
 
 </p></a>
 <p align="center">
