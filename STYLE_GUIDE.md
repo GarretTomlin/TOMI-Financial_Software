@@ -2,7 +2,7 @@
 
 This document aims to specify and define the rules and patterns to follow when implementing and developing new features and components for DogeHouse.
 
->This is a summary. For a more extensive version, components and UI Design, visit the publically available **[PenPot file](https://www.figma.com/file/CS01VVLR7ArQl0afYFkNj3/Web-App?node-id=201%3A1979)**.
+>This is a summary. For a more extensive version, components and UI Design, visit the publically available **[PenPot file](https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/docs/Style_Guide.svg)**.
 
 ## Table of contents
 - [Design Guidelines](#design-guidelines)
