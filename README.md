@@ -6,8 +6,6 @@
 ---
 
 ## Technical Stuffs
-<p align="center">
 | Tech Design  | Style Guide    | ER Diagrams   |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
-</p>
