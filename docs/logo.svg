@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="168mm"
+   height="40mm"
+   viewBox="0 0 168 40"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.2097881"
+     inkscape:cx="224.90845"
+     inkscape:cy="105.43998"
+     inkscape:window-width="1350"
+     inkscape:window-height="1041"
+     inkscape:window-x="78"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g138"
+       transform="matrix(0.4587291,0,0,0.4092304,-6.8598362,-6.1924165)">
+      <g
+         id="g94">
+        <rect
+           class="st0"
+           height="28.700001"
+           transform="matrix(0.674,-0.7387,0.7387,0.674,-14.5718,70.1)"
+           width="50.599998"
+           x="46.799999"
+           y="37.200001"
+           id="rect86"
+           style="fill:#10af31" />
+        <polygon
+           class="st1"
+           points="67.1,78.4 47.4,60.4 80.1,24.5 78.6,23.2 44.5,60.6 65.7,79.9 "
+           id="polygon88"
+           style="opacity:0.1" />
+        <path
+           class="st2"
+           d="m 81.8,34.3 v 0 c -1.6,1.8 -4.4,1.9 -6.1,0.3 l -0.3,-0.3 -20,22 0.3,0.3 c 1.8,1.6 1.9,4.4 0.3,6.1 v 0 l 6.7,6.1 v 0 c 1.6,-1.8 4.4,-1.9 6.1,-0.3 l 0.3,0.3 20,-22 -0.3,-0.3 C 87,44.9 86.9,42.1 88.5,40.4 v 0 z"
+           id="path90"
+           style="fill:#98d049" />
+        <circle
+           class="st0"
+           cx="72.099998"
+           cy="51.599998"
+           r="6"
+           id="circle92"
+           style="fill:#10af31" />
+      </g>
+      <g
+         id="g104">
+        <rect
+           class="st0"
+           height="28.700001"
+           transform="matrix(0.4374,-0.8993,0.8993,0.4374,-8.2074,78.0765)"
+           width="50.599998"
+           x="33"
+           y="31.299999"
+           id="rect96"
+           style="fill:#10af31" />
+        <polygon
+           class="st1"
+           points="61,72.7 37,61.1 58.2,17.4 56.5,16.6 34.3,62.1 60.1,74.6 "
+           id="polygon98"
+           style="opacity:0.1" />
+        <path
+           class="st2"
+           d="m 62.6,26.3 v 0 c -1.1,2.2 -3.7,3.1 -5.8,2 l -0.4,-0.2 -13,26.8 0.4,0.2 c 2.2,1.1 3.1,3.7 2,5.8 v 0 l 8.1,3.9 v 0 c 1.1,-2.2 3.7,-3.1 5.8,-2 L 60.1,63 73.1,36.2 72.7,36 c -2.2,-1.1 -3.1,-3.7 -2,-5.8 v 0 z"
+           id="path100"
+           style="fill:#98d049" />
+        <circle
+           class="st0"
+           cx="58.299999"
+           cy="45.599998"
+           r="6"
+           id="circle102"
+           style="fill:#10af31" />
+      </g>
+      <g
+         id="g114">
+        <rect
+           class="st0"
+           height="28.700001"
+           transform="rotate(-90,44.483479,46.0238)"
+           width="50.599998"
+           x="19.200001"
+           y="31.700001"
+           id="rect106"
+           style="fill:#10af31" />
+        <polygon
+           class="st1"
+           points="58.8,69.2 32.1,69.2 32.1,20.7 30.1,20.7 30.1,71.3 58.8,71.3 "
+           id="polygon108"
+           style="opacity:0.1" />
+        <path
+           class="st2"
+           d="m 40,26.8 v 0 c 0,2.4 -1.9,4.4 -4.4,4.4 h -0.4 v 29.7 h 0.4 c 2.4,0 4.4,1.9 4.4,4.4 v 0 h 9 v 0 c 0,-2.4 1.9,-4.4 4.4,-4.4 h 0.4 V 31.2 H 53.4 C 51,31.2 49,29.3 49,26.8 v 0 z"
+           id="path110"
+           style="fill:#98d049" />
+        <circle
+           class="st0"
+           cx="44.5"
+           cy="46"
+           r="6"
+           id="circle112"
+           style="fill:#10af31" />
+      </g>
+      <circle
+         class="st3"
+         cx="40.299999"
+         cy="45.400002"
+         r="13.2"
+         id="circle116"
+         style="fill:#f6b138" />
+      <circle
+         class="st4"
+         cx="40.299999"
+         cy="45.400002"
+         r="8.8000002"
+         id="circle118"
+         style="fill:#985b0b" />
+      <circle
+         class="st5"
+         cx="40.299999"
+         cy="45.400002"
+         r="6.0999999"
+         id="circle120"
+         style="fill:#de9a2b" />
+      <path
+         class="st6"
+         d="M 85.1,103.4 H 26.9 c -3.7,0 -6.7,-3 -6.7,-6.7 V 54.3 c 0,-3.7 3,-6.7 6.7,-6.7 h 58.3 c 3.7,0 6.7,3 6.7,6.7 v 42.5 c -0.1,3.7 -3.1,6.6 -6.8,6.6 z"
+         id="path122"
+         style="fill:#b17012" />
+      <path
+         class="st1"
+         d="M 88.2,102.3 H 29.9 c -3.7,0 -6.7,-3 -6.7,-6.7 V 53.1 c 0,-2.2 1.1,-4.2 2.8,-5.4 -3.3,0.4 -5.8,3.2 -5.8,6.6 v 42.5 c 0,3.7 3,6.7 6.7,6.7 h 58.3 c 1.4,0 2.8,-0.5 3.9,-1.2 -0.4,-0.1 -0.6,0 -0.9,0 z"
+         id="path124"
+         style="opacity:0.1" />
+      <path
+         class="st6"
+         d="M 94.7,85 H 73.9 c -1.7,0 -3.2,-1.4 -3.2,-3.2 V 69.3 c 0,-1.7 1.4,-3.2 3.2,-3.2 h 20.7 c 1.7,0 3.2,1.4 3.2,3.2 v 12.5 c 0,1.7 -1.4,3.2 -3.1,3.2 z"
+         id="path126"
+         style="fill:#b17012" />
+      <circle
+         class="st4"
+         cx="80.400002"
+         cy="75.5"
+         r="4.5"
+         id="circle128"
+         style="fill:#985b0b" />
+      <path
+         class="st1"
+         d="m 81.3,79.6 c -2.5,0 -4.5,-2 -4.5,-4.5 0,-1.6 0.9,-3 2.2,-3.8 -1.8,0.6 -3,2.3 -3,4.2 0,2.5 2,4.5 4.5,4.5 0.8,0 1.6,-0.2 2.3,-0.7 -0.5,0.2 -1,0.3 -1.5,0.3 z"
+         id="path130"
+         style="opacity:0.1" />
+      <path
+         class="st1"
+         d="M 96.3,84.4 H 75.6 c -1.7,0 -3.2,-1.4 -3.2,-3.2 V 68.8 c 0,-1.1 0.6,-2.1 1.4,-2.6 -1.7,0.1 -3,1.4 -3,3.2 v 12.5 c 0,1.7 1.4,3.2 3.2,3.2 h 20.7 c 0.7,0 1.3,-0.2 1.8,-0.5 -0.1,-0.2 -0.2,-0.2 -0.2,-0.2 z"
+         id="path132"
+         style="opacity:0.1" />
+      <g
+         id="g136">
+        <path
+           class="st1"
+           d="m 30.1,37.1 c 2.2,-2.7 5.6,-4.5 9.3,-4.8 -0.3,0 -0.6,0 -0.9,0 -3.2,0 -6.1,1.1 -8.4,3 z"
+           id="path134"
+           style="opacity:0.1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'UD Digi Kyokasho NK-B';-inkscape-font-specification:'UD Digi Kyokasho NK-B';fill:#26baee;fill-opacity:1;stroke-width:0.264583"
+       x="59.507023"
+       y="33.16589"
+       id="text509"><tspan
+         sodipodi:role="line"
+         id="tspan507"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';fill:#26baee;fill-opacity:1;stroke-width:0.264583"
+         x="59.507023"
+         y="33.16589">TOMI</tspan></text>
+  </g>
+</svg>
