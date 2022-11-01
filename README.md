@@ -7,6 +7,6 @@
 ---
 
 ## Technical Stuffs
-| Tech Design  | Style Guide    | ER Diagrams   |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Tech Design  | Style Guide                                                                                          | ER Diagrams   |
+| :---         |     :---:                                                                                            |          ---: |
+| git status   | [Style Guide]:https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/STYLE_GUIDE.md    | git status    |
