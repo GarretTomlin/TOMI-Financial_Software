@@ -3,9 +3,11 @@
 <p align="center">
   <strong>A more optimise way of investing 🚀</strong>
 </p>
-
+---
 
 ## Technical Stuffs
+<p align="center">
 | Tech Design  | Style Guide    | ER Diagrams   |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
+</p>
