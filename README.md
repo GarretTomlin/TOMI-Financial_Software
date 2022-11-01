@@ -29,10 +29,10 @@ Clone the project from github
 
 ### Installation
 
-Once the project is downloaded cd into the directory , npm i nx
+Once the project is downloaded cd into the directory
 
 ```
-npm install
+npm i nx && npm install
 ```
 
 Once all dependencies are installed
