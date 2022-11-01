@@ -2,7 +2,7 @@
 
 This document aims to specify and define the rules and patterns to follow when implementing and developing new features and components for DogeHouse.
 
->This is a summary. For a more extensive version, components and UI Design, visit the publically available **[Figma file](https://www.figma.com/file/CS01VVLR7ArQl0afYFkNj3/Web-App?node-id=201%3A1979)**.
+>This is a summary. For a more extensive version, components and UI Design, visit the publically available **[PenPot file](https://www.figma.com/file/CS01VVLR7ArQl0afYFkNj3/Web-App?node-id=201%3A1979)**.
 
 ## Table of contents
 - [Design Guidelines](#design-guidelines)
@@ -12,24 +12,17 @@ This document aims to specify and define the rules and patterns to follow when i
   - [Typography](#typography)
       - [Web Embed](#web-embed)
     - [Desktop](#desktop)
-  - [Spacing](#spacing)
-  - [Doubts and questions](#doubts-and-questions)
+
 
 ## Color scheme
 
-- **Accent**: `#FD4D4D`
+- **Accent**: `#26baee`
 - **Pure White**: `#FFFFFF`
 
 #### Gray shades
-- **Gray 100**: `#DEE3EA`
-- **Gray 200**: `#B2BDCD`
-- **Gray 300**: `#5D7290`
-- **~~Gray 400~~**: `#4F617A`
-- **~~Gray 500~~**: `#404F64`
-- **~~Gray 600~~**: `#323D4D`
-- **Gray 700**: `#242C37`
-- **Gray 800**: `#151A21`
-- **Gray 900**: `#0B0E11`
+- ***Bali Hai**: `#829499`
+- **Full Grey**: `#9ba9ad`
+
 
 ## Typography
 
@@ -68,7 +61,6 @@ font-weight: 500;
 font-weight: 700;
 ```
 
-![DogeHouse typography](https://i.imgur.com/A1pz7UD.png)
 
 Tag | Font Size | Line Height | Weight
 --- | --------- | ----------- | ------
@@ -79,11 +71,3 @@ Tag | Font Size | Line Height | Weight
 **P** | 14px | 22 | 500 - 700
 **P (small)** | 12px | 22 | 500 - 700
 
-## Spacing
-
-This is an approximation. On some circumstances other values will be used to ensure readability, consistency and visual balance, so make sure to also check the UI Design and the spacing used there.
-
-![DogeHouse spacing](https://i.imgur.com/gRIJAXA.png)
-
-## Doubts and questions
-If you have any doubts or concerns when developing components or other UI elements, you can open an issue and tag @ajmnz or leave a message in `#design` or `#kibbeh` in [our Discord](https://discord.gg/82HzQCJCDg).
