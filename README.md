@@ -1,7 +1,7 @@
 <a href=""><p align="center">
 <img height=100 src="https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/docs/logo.svg"/>
 <p align="center">
-  <strong>🚀</strong>
+  <strong>A more optimise way of investing 🚀</strong>
 </p>
 
 
