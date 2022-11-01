@@ -1,1 +1,4 @@
-Dockerfile
+node_modules
+dist
+tmp
+.vscode

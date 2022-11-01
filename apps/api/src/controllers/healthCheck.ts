@@ -1,7 +1,9 @@
-import { logError } from '../services/loggerManager';
 import * as moment from 'moment';
+import {Request, Response} from 'express';
+import { logError } from '../services/loggerManager';
 
-const healthCheck = (_req, res) => {
+
+const healthCheck = (_req:Request, res:Response) => {
     const healthCheckResponse = {
         uptime: process.uptime(),
         message: 'OK',

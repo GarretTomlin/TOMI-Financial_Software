@@ -1,10 +1,10 @@
-FROM node:lts-alpine
+FROM node:lts-alpine as builder
 
-RUN apk add --no-cache bash curl
+ARG NODE_ENV
+ARG BUILD_FLAG
 
-ADD ./ /var/www/app
-WORKDIR /var/www/app
+WORKDIR /app/builder
 
-RUN npm install
+COPY . .
 
-CMD [ "node_modules/nodemon/bin/nodemon", "app" ]
+RUN npm i
