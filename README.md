@@ -6,6 +6,42 @@
 
 ---
 
+## About The Project
+
+TOMI is a monorepo budgeting/fanancial web application. The purpose of TOMI is to give the user an interface with all the information needed about a stock , stock news, new apo etc, also equip with an budgeting feature to manage your funds and see where exactly the funds are going, making investing in the Jamaica Stock Market a lot easier.
+
+### Built With
+
+-   [NodeJS](https://nodejs.org)
+-   [Express](https://expressjs.com)
+-   [Prisma](https://www.prisma.io/)
+-   [NX](https://nx.dev/)
+
+
+## Getting Started
+
+Clone the project from github 
+
+### Prerequisites
+
+-   postgres container running
+-   `.env` updated with the environment variables needed by TOMI.
+
+### Installation
+
+Once the project is downloaded cd into the directory , npm i nx
+
+```
+npm install
+```
+
+Once all dependencies are installed
+
+```
+nx serve frontend 
+nx serve api
+```
+
 ## Technical Stuffs
 | Tech Design                                         | Style Guide                                                                                          | ERD Diagrams   |
 | :---:                                                 |     :---:                                                                                            |    :---:   |
