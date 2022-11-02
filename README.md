@@ -16,6 +16,7 @@ TOMI is a monorepo budgeting/fanancial web application. The purpose of TOMI is t
 -   [Express](https://expressjs.com)
 -   [Prisma](https://www.prisma.io/)
 -   [NX](https://nx.dev/)
+-   [ReactJS](https://reactjs.org/)
 
 
 ## Getting Started
@@ -26,6 +27,7 @@ Clone the project from github
 
 -   postgres container running
 -   `.env` updated with the environment variables needed by TOMI.
+- ```docker compose up```
 
 ### Installation
 
