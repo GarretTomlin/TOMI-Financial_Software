@@ -5,7 +5,7 @@
 </p>
 
 ## Welcome
-Welcome to TOMI Documentation, the next voice conversation social platform.
+Welcome to TOMI Documentation, A more optimise way of investing.
 
 TOMI make it easy to track stocks , invest etc in the jamaica stock market
 
