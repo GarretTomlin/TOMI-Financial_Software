@@ -1,6 +1,6 @@
 # Design Guidelines
 
-This document aims to specify and define the rules and patterns to follow when implementing and developing new features and components for DogeHouse.
+This document aims to specify and define the rules and patterns that should be follow when implementing and developing new features and components for TOMI.
 
 >This is a summary. For a more extensive version, components and UI Design, visit the publically available **[PenPot file](https://github.com/GarretTomlin/Budgeting-web-app-monorepo/blob/main/docs/Style_Guide.svg)**.
 
