@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "nx serve",
+    "start": "nx serve budgeting-web-app/apps/frontend/src/main.tsx && budgeting-web-app//apps/api/src/app.ts",
     "build": "nx build",
     "test": "nx test"
   },
